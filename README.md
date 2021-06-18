@@ -1,3 +1,3 @@
 # Major Project
 
-Please check the master branch to see the images used
+Please refer to the master branch to see the images used
